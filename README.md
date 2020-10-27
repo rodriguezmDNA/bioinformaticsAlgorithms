@@ -1,2 +1,2 @@
 # bioinformaticsAlgorithms
-code for Compeau and Pevzners' Bioinformatics Algorithms challenges on Rosalind
+Code for Compeau and Pevzners' Bioinformatics Algorithms challenges on Rosalind
